@@ -38,3 +38,11 @@ Before applying, candidates can upload their resume and the platform will:
 - Compare it with job description keywords
 - Return a match score out of 100
 - Help users improve resume relevance
+
+## Project Photographs
+<img width="1919" height="810" alt="image" src="https://github.com/user-attachments/assets/65628c64-dfe5-48c7-b255-87a25f608143" />
+<img width="1919" height="351" alt="image" src="https://github.com/user-attachments/assets/6c996491-7e46-42f2-bdbc-eb700346076d" />
+<img width="1919" height="798" alt="image" src="https://github.com/user-attachments/assets/48fcbca3-be1f-45a7-8f94-434e0a932a17" />
+
+
+
