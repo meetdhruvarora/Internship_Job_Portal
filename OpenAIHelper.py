@@ -4,7 +4,7 @@ import time
 def call_openai_api(prompt, image_path=None):
     headers = {
         "Content-Type": "application/json",
-        "api-key": "83f4484027a74428ac5153a70db2143c",
+        "api-key": "your_api_key",
     }
 
     # Base payload with prompt
